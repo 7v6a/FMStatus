@@ -61,5 +61,5 @@ You’ll be prompted to enter a Last.fm username. The script will then fetch and
 --- 
 
 ## 🖼️ Preview
-![{8156DC22-3A32-4CC1-8714-ED421FEE2DED}](https://github.com/user-attachments/assets/4ca514dd-baf0-4202-87d5-f1f2bcd4d26f)
+![{8A6628BE-7FCD-4CBF-83ED-C71187C800D6}](https://github.com/user-attachments/assets/572f2b20-bc4a-47e3-ba7d-30671a72daf0)
 
